@@ -1,0 +1,18 @@
+/* You can add global styles to this file, and also import other style files */
+/* styles.css */
+@import '~bootstrap/dist/css/bootstrap.min.css';
+@import '~font-awesome/css/font-awesome.css';
+
+html, body { height: 100%; }
+body { background: linear-gradient(115deg, #c2eef2 10% , #c390f7 90%);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;}
+ .description-footer p {
+        text-align: center;
+        color: #fefefe;
+    }
+  
+    
